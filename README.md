@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummaymaimonachaman&label=Profile%20views&color=0e75b6&style=flat" alt="ummaymaimonachaman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ummay maimona chaman" target="blank"><img src="https://img.shields.io/twitter/follow/ummay maimona chaman?logo=twitter&style=for-the-badge" alt="ummay maimona chaman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/UMChaman" target="blank"><img src="https://img.shields.io/twitter/follow/ummay maimona chaman?logo=twitter&style=for-the-badge" alt="ummay maimona chaman" /></a> </p>
 
 - 🌱 I’m currently learning **Web-development, Graphics designing.**
 
