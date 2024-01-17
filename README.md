@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/OIP.T64jCkFbCj-xLqCe1tUWFgHaCq?rs=1&pid=ImgDetMain)
+![MasterHead](https://github.githubassets.com/assets/octocats-656a28e14a2f.webp)
 
 <h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
 <h3 align="center">A Tech Enthusiastic and passionate about Robotics & Circuit, programming, web-development and graphics designing.</h3>
