@@ -24,7 +24,7 @@ Passionate about Artificial Intelligence 🤖, Machine Learning 🔗, Deep Learn
 - 🔭 Currently working on **Bioinformatics & AI**
 - 🌱 Learning **Machine Learning & Deep Learning**
 - 👨‍💻 Projects:  
-  👉 https://www.linkedin.com/in/ummay-maimona-chaman-b1368b284
+  👉 https://ummaymaimonachaman.github.io/Myself_CHAMAN/
 - 💬 Ask me about **ML, Robotics, Web Dev**
 - 📫 Email: **chamanmaimona@gmail.com**
 
