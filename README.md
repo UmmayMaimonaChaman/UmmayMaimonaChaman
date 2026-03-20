@@ -1,7 +1,9 @@
 ![MasterHead](https://wallpaperaccess.com/full/3079594.jpg)
 
 <h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
-<h3 align="center">A Tech Enthusiast passionate about Robotics ⚙️, Circuit Design 🔌, Web Development 🌐 and Machine Learning 🤖</h3>
+<h3 align="center">
+Passionate about Artificial Intelligence 🤖, Machine Learning 🔗, Deep Learning 🔭 & Neural Networks 🧠, Robotics ⚙️, Circuit Design 🔌, and Web Development 🌐
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=300&speed=80&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Robotics+%26+Circuit+Designer;Full+Stack+Web+Developer;Vibe+Coder;AI+Research+Learner;Research+Engineer;Computer+Science+Engineer;Researcher;Always+Learning+🚀" />
