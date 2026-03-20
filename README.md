@@ -155,7 +155,7 @@ Passionate about Artificial Intelligence 🤖, Machine Learning 🔗, Deep Learn
 
 ---
 
-# 🟡 Pacman Contribution Graph
+# 🟡 Github Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ummaymaimonachaman/ummaymaimonachaman/output/pacman-contribution-graph-dark.svg">
