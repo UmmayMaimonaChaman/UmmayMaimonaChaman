@@ -1,4 +1,6 @@
-<img src="./profile.svg" alt="Profile">
+<p align="center">
+  <img src="profile.svg" alt="Hacker Profile" width="1543">
+</p>
 <h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
 <h3 align="center">
 Passionate about AI 🤖, Machine Learning 🧠, Deep Learning 🔥, Robotics ⚙️, and Web Development 🌐
