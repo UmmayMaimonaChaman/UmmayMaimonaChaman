@@ -1,4 +1,3 @@
-![MasterHead](https://wallpaperaccess.com/full/3079594.jpg)
 <img src="./profile.svg" alt="Profile">
 <h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
 <h3 align="center">
