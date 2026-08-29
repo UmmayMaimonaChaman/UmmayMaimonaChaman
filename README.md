@@ -22,7 +22,9 @@ Passionate about AI 🤖, Machine Learning 🧠, Deep Learning 🔥, Robotics �
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Bioinformatics & AI**
+- 🔭 Currently working on **Trustworthy and Human-Centered AI for Healthcare, with a focus on Federated Learning, Multimodal Deep
+Learning, Medical Image Analysis, Explainable AI (XAI), Vision-Language Models (VLMs) for Clinical Decision
+Support, LLM-based Agents, AI Evaluation and Calibration, and AI-Driven Biomedical Data Analysis.**
 - 🌱 Learning **Machine Learning & Deep Learning**
 - 👨‍💻 Projects:  
   👉 https://ummaymaimonachaman.github.io/Myself_CHAMAN/
