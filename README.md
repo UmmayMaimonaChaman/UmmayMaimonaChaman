@@ -1,35 +1,27 @@
-<p align="center">
-  <img src="profile.svg" alt="Hacker Profile" width="1543">
-</p>
+<p align="center"> <img src="profile.svg" alt="Hacker Profile" width="1543"> </p>
+
 <h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
-<h3 align="center">
-Passionate about AI 🤖, Machine Learning 🧠, Deep Learning 🔥, Robotics ⚙️, and Web Development 🌐
-</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=300&speed=80&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Robotics+%26+Circuit+Designer;Full+Stack+Web+Developer;Vibe+Coder;AI+Research+Learner;Research+Engineer;Computer+Science+Engineer;Researcher;Profesional+and+Academic++Writer;Always+Learning+🚀" />
-</p>
+<h3 align="center"> Passionate about AI 🤖, Machine Learning 🧠, Deep Learning 🔥, Robotics ⚙️, and Web Development 🌐 </h3>
 
----
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=300&speed=80&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;Robotics+%26+Circuit+Designer;Full+Stack+Web+Developer;Vibe+Coder;AI+Research+Learner;Research+Engineer;Computer+Science+Engineer;Researcher;Profesional+and+Academic++Writer;Always+Learning+🚀" /> </p>
 
-<img align="right" alt="Coding" width="350" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
+🚀 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ummaymaimonachaman&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img align="right" alt="Coding Animation" width="280" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
 
----
+* 🔭 Currently working on **Trustworthy and Human-Centered AI for Healthcare**, with a focus on **Federated Learning, Multimodal AI, Medical Image Analysis, Explainable AI (XAI), Vision-Language Models (VLMs), Clinical Decision Support, LLM-based Agents, AI Evaluation and Calibration, and AI-Driven Biomedical Data Analysis.**
 
-## 🚀 About Me
+* 🌱 Currently learning **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, AI Agents, LLM Orchestration, Prompt Engineering, Tool-Using Agents, and AI Evaluation.**
 
-- 🔭 Currently working on **Trustworthy and Human-Centered AI for Healthcare, with a focus on Federated Learning, Multimodal Deep
-Learning, Medical Image Analysis, Explainable AI (XAI), Vision-Language Models (VLMs) for Clinical Decision
-Support, LLM-based Agents, AI Evaluation and Calibration, and AI-Driven Biomedical Data Analysis.**
-- 🌱 Learning **Machine Learning & Deep Learning**
-- 👨‍💻 Projects:  
-  👉 https://ummaymaimonachaman.github.io/Myself_CHAMAN/
-- 💬 Ask me about **ML, Robotics, Web Dev**
-- 📫 Email: **chamanmaimona@gmail.com**
+* 👨‍💻 Projects:
+  👉 [My Portfolio](https://ummaymaimonachaman.github.io/Myself_CHAMAN/)
+
+* 💬 Ask me about **AI Research, LLMs, RAG, AI Agents, Robotics, and Full-Stack Development**
+
+* 📫 Email: **[chamanmaimonad@gmail.com](mailto:chamanmaimona@gmail.com)**
+
+<br clear="right">
 
 ---
 
