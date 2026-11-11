@@ -2,7 +2,7 @@
   <img src="profile.svg" alt="Profile header for Ummay Maimona Chaman" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Ummay Maimona Chaman</h1>
+<h1 align="center">Hi 👋, I'm Ummay Maimona Chaman</h1>
 
 <h3 align="center">AI research, machine learning, deep learning, robotics, and web development</h3>
 
@@ -16,23 +16,25 @@
 
 ## About Me
 
-<img align="right" alt="Illustration of a person working at a computer" width="280" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
-
-Undergraduate researcher in Computer Science and Engineering at **BRAC University**, Dhaka, Bangladesh.
-
-* 🔭 Currently working on **Trustworthy and Human-Centered AI for Healthcare**, with a focus on **federated learning, multimodal AI, medical image analysis, explainable AI (XAI), vision-language models (VLMs), clinical decision support, LLM-based agents, AI evaluation and calibration, and AI-driven biomedical data analysis.**
-
-* 🌱 Currently learning **large language models (LLMs), retrieval-augmented generation (RAG), agentic AI, AI agents, LLM orchestration, prompt engineering, tool-using agents, and AI evaluation.**
-
-* 👨‍💻 Projects: [My Portfolio](https://ummaymaimonachaman.github.io/Myself_CHAMAN/)
-
-* 💬 Ask me about **AI research, LLMs, RAG, AI agents, robotics, and full-stack development**
-
-* 🎓 [Google Scholar](https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en) · [ORCID 0009-0005-8864-6360](https://orcid.org/0009-0005-8864-6360)
-
-* 📫 Email: **[chamanmaimonad@gmail.com](mailto:chamanmaimonad@gmail.com)**
-
-<br clear="right">
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      Undergraduate researcher and software engineer at <strong>BRAC University</strong> (B.Sc. in Computer Science and Engineering, finishing September 2026), Dhaka. I work on trustworthy, human-centered medical AI, and on the software around it, including agentic research workflows at <a href="https://moncho.ai/">Moncho.ai</a>.
+      <ul>
+        <li>🔭 Currently working on <strong>Trustworthy and Human-Centered AI for Healthcare</strong>, with a focus on <strong>federated learning, multimodal AI, medical image analysis, explainable AI (XAI), vision-language models (VLMs), clinical decision support, LLM-based agents, AI evaluation and calibration, and AI-driven biomedical data analysis.</strong></li>
+        <li>🌱 Currently learning <strong>large language models (LLMs), retrieval-augmented generation (RAG), agentic AI, AI agents, LLM orchestration, prompt engineering, tool-using agents, and AI evaluation.</strong></li>
+        <li>👨‍💻 Projects: <a href="https://ummaymaimonachaman.github.io/UMChaman_Portfolio/">UMChaman_Portfolio</a></li>
+        <li>🔬 Research: twin-aware multimodal prediction of adolescent anxiety (undergraduate thesis), federated medical imaging, wearable attention and stress detection, and explainable clinical models. <a href="https://ummaymaimonachaman.github.io/UMChaman_Portfolio/#research">Portfolio</a> · <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en">Google Scholar</a></li>
+        <li>💬 Ask me about <strong>AI research, LLMs, RAG, AI agents, robotics, and full-stack development</strong></li>
+        <li>🎓 <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en">Google Scholar</a> · <a href="https://orcid.org/0009-0005-8864-6360">ORCID 0009-0005-8864-6360</a></li>
+        <li>📫 Email: <strong><a href="mailto:chamanmaimonad@gmail.com">chamanmaimonad@gmail.com</a></strong></li>
+      </ul>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <img alt="Illustration of a person working at a computer" width="220" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,8 +47,8 @@ Undergraduate researcher in Computer Science and Engineering at **BRAC Universit
   <a href="https://instagram.com/chaman_maimona"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
   <a href="https://www.youtube.com/channel/uc6dvga7xrganquq1iyydqag"><img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/></a>
   <a href="https://discord.gg/Chaman22301719"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/></a>
-  <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="40" alt="Google Scholar"/></a>
-  <a href="https://orcid.org/0009-0005-8864-6360"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="40" alt="ORCID"/></a>
+  <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="40" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0009-0005-8864-6360"><img src="https://cdn.simpleicons.org/orcid/A6CE39" height="40" alt="ORCID"/></a>
 </p>
 
 ---
@@ -171,11 +173,6 @@ Undergraduate researcher in Computer Science and Engineering at **BRAC Universit
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummaymaimonachaman&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub statistics for ummaymaimonachaman" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummaymaimonachaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ummaymaimonachaman&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
