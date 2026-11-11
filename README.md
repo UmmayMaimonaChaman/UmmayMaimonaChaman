@@ -23,8 +23,8 @@
       <ul>
         <li>🔭 Currently working on <strong>Trustworthy and Human-Centered AI for Healthcare</strong>, with a focus on <strong>federated learning, multimodal AI, medical image analysis, explainable AI (XAI), vision-language models (VLMs), clinical decision support, LLM-based agents, AI evaluation and calibration, and AI-driven biomedical data analysis.</strong></li>
         <li>🌱 Currently learning <strong>large language models (LLMs), retrieval-augmented generation (RAG), agentic AI, AI agents, LLM orchestration, prompt engineering, tool-using agents, and AI evaluation.</strong></li>
-        <li>👨‍💻 Projects: <a href="https://ummaymaimonachaman.github.io/UMChaman_Portfolio/">UMChaman_Portfolio</a></li>
-        <li>🔬 Research: twin-aware multimodal prediction of adolescent anxiety (undergraduate thesis), federated medical imaging, wearable attention and stress detection, and explainable clinical models. <a href="https://ummaymaimonachaman.github.io/UMChaman_Portfolio/#research">Portfolio</a> · <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en">Google Scholar</a></li>
+        <li>👨‍💻 Projects: <a href="https://ummaymaimonachaman.github.io/Myself_CHAMAN/">Project Portfolio</a></li>
+        <li>🔬 Research: <a href="https://ummaymaimonachaman.github.io/UMChaman_Portfolio/">Research Portfolio</a></li>
         <li>💬 Ask me about <strong>AI research, LLMs, RAG, AI agents, robotics, and full-stack development</strong></li>
         <li>🎓 <a href="https://scholar.google.com/citations?user=laJ1Z0IAAAAJ&hl=en">Google Scholar</a> · <a href="https://orcid.org/0009-0005-8864-6360">ORCID 0009-0005-8864-6360</a></li>
         <li>📫 Email: <strong><a href="mailto:chamanmaimonad@gmail.com">chamanmaimonad@gmail.com</a></strong></li>
@@ -32,6 +32,8 @@
     </td>
     <td width="30%" valign="top" align="right">
       <img alt="Illustration of a person working at a computer" width="220" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
+      <br><br>
+      <img alt="Research thread: medical imaging, federated learning, and explainable models" width="220" src="focus.svg">
     </td>
   </tr>
 </table>
