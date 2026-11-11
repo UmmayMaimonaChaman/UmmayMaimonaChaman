@@ -33,7 +33,7 @@
     <td width="30%" valign="top" align="right">
       <img alt="Illustration of a person working at a computer" width="220" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
       <br><br>
-      <img alt="Research thread: medical imaging, federated learning, and explainable models" width="220" src="research-thread.svg?v=2">
+      <img alt="Research thread: medical imaging, federated learning, and explainable models" width="220" src="agentic-medical.svg">
     </td>
   </tr>
 </table>
